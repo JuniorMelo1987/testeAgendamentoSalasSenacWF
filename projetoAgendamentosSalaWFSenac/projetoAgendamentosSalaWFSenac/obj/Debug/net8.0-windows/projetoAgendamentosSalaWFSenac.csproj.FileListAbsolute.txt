@@ -1,0 +1,17 @@
+C:\Users\Aluno\source\repos\projetoAgendamentosSalaWFSenac\projetoAgendamentosSalaWFSenac\obj\Debug\net8.0-windows\projetoAgendamentosSalaWFSenac.Form1.resources
+C:\Users\Aluno\source\repos\projetoAgendamentosSalaWFSenac\projetoAgendamentosSalaWFSenac\obj\Debug\net8.0-windows\projetoAgendamentosSalaWFSenac.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\projetoAgendamentosSalaWFSenac\projetoAgendamentosSalaWFSenac\obj\Debug\net8.0-windows\projetoAgendamentosSalaWFSenac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\projetoAgendamentosSalaWFSenac\projetoAgendamentosSalaWFSenac\obj\Debug\net8.0-windows\projetoAgendamentosSalaWFSenac.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\projetoAgendamentosSalaWFSenac\projetoAgendamentosSalaWFSenac\obj\Debug\net8.0-windows\projetoAgendamentosSalaWFSenac.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\projetoAgendamentosSalaWFSenac\projetoAgendamentosSalaWFSenac\obj\Debug\net8.0-windows\projetoAgendamentosSalaWFSenac.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\projetoAgendamentosSalaWFSenac\projetoAgendamentosSalaWFSenac\bin\Debug\net8.0-windows\projetoAgendamentosSalaWFSenac.exe
+C:\Users\Aluno\source\repos\projetoAgendamentosSalaWFSenac\projetoAgendamentosSalaWFSenac\bin\Debug\net8.0-windows\projetoAgendamentosSalaWFSenac.deps.json
+C:\Users\Aluno\source\repos\projetoAgendamentosSalaWFSenac\projetoAgendamentosSalaWFSenac\bin\Debug\net8.0-windows\projetoAgendamentosSalaWFSenac.runtimeconfig.json
+C:\Users\Aluno\source\repos\projetoAgendamentosSalaWFSenac\projetoAgendamentosSalaWFSenac\bin\Debug\net8.0-windows\projetoAgendamentosSalaWFSenac.dll
+C:\Users\Aluno\source\repos\projetoAgendamentosSalaWFSenac\projetoAgendamentosSalaWFSenac\bin\Debug\net8.0-windows\projetoAgendamentosSalaWFSenac.pdb
+C:\Users\Aluno\source\repos\projetoAgendamentosSalaWFSenac\projetoAgendamentosSalaWFSenac\obj\Debug\net8.0-windows\projetoAgendamentosSalaWFSenac.dll
+C:\Users\Aluno\source\repos\projetoAgendamentosSalaWFSenac\projetoAgendamentosSalaWFSenac\obj\Debug\net8.0-windows\refint\projetoAgendamentosSalaWFSenac.dll
+C:\Users\Aluno\source\repos\projetoAgendamentosSalaWFSenac\projetoAgendamentosSalaWFSenac\obj\Debug\net8.0-windows\projetoAgendamentosSalaWFSenac.pdb
+C:\Users\Aluno\source\repos\projetoAgendamentosSalaWFSenac\projetoAgendamentosSalaWFSenac\obj\Debug\net8.0-windows\projetoAgendamentosSalaWFSenac.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\projetoAgendamentosSalaWFSenac\projetoAgendamentosSalaWFSenac\obj\Debug\net8.0-windows\ref\projetoAgendamentosSalaWFSenac.dll
+C:\Users\Aluno\source\repos\projetoAgendamentosSalaWFSenac\projetoAgendamentosSalaWFSenac\obj\Debug\net8.0-windows\projetoAgendamentosSalaWFSenac.Properties.Resources.resources
